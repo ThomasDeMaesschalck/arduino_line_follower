@@ -1,7 +1,7 @@
 # Arduino line follower robot
 School project for Programming 2. 
 
-Requires an Arduino Mega board, two DC motors, two ultrasonic sensors, a buzzer, RGB LEDs, two color sensors, a battery, a chassis plus wheels, a ton of cables, etc.
+Requires an Arduino Mega board, two DC motors, three line follower sensors, two ultrasonic sensors, a buzzer, RGB LEDs, two color sensors, a battery, a chassis plus wheels, a ton of cables, etc.
 
 Arduino line follower robot with the following capabilities:
 - Performs countdown procedure on startup.
